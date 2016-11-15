@@ -1,0 +1,27 @@
+
+
+/*# sourceMappingURL=styles.css.map */
+
+#main {
+	background-color: #7BCC70;
+	margin-top: -2em ;
+}
+
+
+
+.col-md-3 {
+	border: .5em solid black;
+	font-family:  futura;
+	margin: .2em .2em .2em .2em;
+	margin-left:  4em;
+	margin-top: 2em;
+	background-color: white;
+	overflow: hidden ;
+
+
+
+}
+
+.isClicked {
+	border: .8em solid black;
+}
